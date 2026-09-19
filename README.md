@@ -251,4 +251,4 @@ This repository serves as the official landing page for Civilizations Wars. The 
 **Get the most recent version of Civilizations Wars today!**
 
 ---
-**Last updated:** 2026-09-19 14:56:32 UTC
+**Last updated:** 2026-09-19 17:37:09 UTC
